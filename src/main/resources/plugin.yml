@@ -3,3 +3,9 @@ version: '1.0-SNAPSHOT'
 main: org.togudv.monarquiArena.MonarquiArena
 api-version: '1.21'
 authors: [ ToguDV ]
+
+commands:
+  arena:
+    description: Comando para gestionar arenas
+    usage: /arena join <nombre_arena>
+    permission: monarquiarena.arena

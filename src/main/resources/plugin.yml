@@ -1,0 +1,5 @@
+name: MonarquiArena
+version: '1.0-SNAPSHOT'
+main: org.togudv.monarquiArena.MonarquiArena
+api-version: '1.21'
+authors: [ ToguDV ]
